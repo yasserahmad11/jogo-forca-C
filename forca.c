@@ -168,7 +168,7 @@ int main(){
     } 
     else {
         printf("\nPuxa, você foi enforcado!\n");
-        printf("A palavra era: %s\n\n", palavraSecreta);
+        printf("A palavra era: (%s)\n\n", palavraSecreta);
 
         printf("    _______________         \n");
         printf("   /               \\       \n"); 
